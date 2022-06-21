@@ -15,8 +15,13 @@ class MainActivity : AppCompatActivity() {
         binding = ActivityMainBinding.inflate(LayoutInflater.from(this))
         setContentView(binding.root)
 
-        binding.button.setOnClickListener {
+        binding.buttonTela2.setOnClickListener {
             val intent = Intent(this, Tela2::class.java)
+            startActivity(intent)
+        }
+
+        binding.buttonTela3.setOnClickListener {
+            val intent = Intent(this, Tela3::class.java)
             startActivity(intent)
         }
 

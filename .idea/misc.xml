@@ -4,9 +4,14 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="../../../../layout/custom_preview.xml" value="0.1" />
+        <entry key="..\:/Users/aniel/StudioProjects/AnieleProject/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2265" />
+        <entry key="..\:/Users/aniel/StudioProjects/AnieleProject/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/aniel/StudioProjects/AnieleProject/app/src/main/res/layout/activity_tela2.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/aniel/StudioProjects/AnieleProject/app/src/main/res/layout/activity_tela3.xml" value="0.264" />
+        <entry key="..\:/Users/aniel/StudioProjects/AnieleProject/app/src/main/res/layout/activity_tela4.xml" value="0.25" />
+        <entry key="..\:/Users/aniel/StudioProjects/AnieleProject/app/src/main/res/layout/item_pessoa.xml" value="0.2359375" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/activity_tela2.xml" value="0.19610507246376813" />
-        <entry key="app/src/main/res/layout/activity_tela3.xml" value="0.1800628662109375" />
         <entry key="app/src/main/res/layout/item_pessoa.xml" value="0.335" />
       </map>
     </option>

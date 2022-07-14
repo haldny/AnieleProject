@@ -24,6 +24,11 @@ class MainActivity : AppCompatActivity() {
             val intent = Intent(this, Tela3::class.java)
             startActivity(intent)
         }
+        // interação UI ao clicar no botão "ir para tela 4"
+        binding.buttonTela4.setOnClickListener {
+            val intent = Intent(this, Tela4::class.java)
+            startActivity(intent)
+        }
 
     }
 }

@@ -36,7 +36,7 @@ class Tela4 : AppCompatActivity() {
                 val resultadoSimulacao =
                     ((linguagens * 2) + (humanas) + (matematica * 4) + (redacao * 2) + (natureza * 1)) / 10
                 binding.textViewSimulacao.text =
-                    resultadoSimulacao.toBigDecimal().gsetScale(2, RoundingMode.DOWN)
+                    resultadoSimulacao.toBigDecimal().setScale(2, RoundingMode.DOWN)
                         .toString()
                     if ( resultadoSimulacao < 774.49) {
 

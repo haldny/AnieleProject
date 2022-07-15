@@ -56,7 +56,7 @@ class Tela4 : AppCompatActivity() {
 
                         val alertDialogNotaCortePositiva = AlertDialog.Builder(this@Tela4)
                             .setTitle("Parabéns!!! :D")
-                            .setMessage("Segundo a nota de corte 2022, VOCÊ É FERA UFPE")
+                            .setMessage("Segundo a nota de corte 2022, VOCÊ É FERA UFPE e seu resultado foi: $resultadoSimulacao")
                             .setCancelable(false)
                             .setPositiveButton("Ok") { dialog, _ ->
                                 dialog.dismiss()

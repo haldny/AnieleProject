@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">AnieleProject</string>
     <string name="redacao">Redação:</string>
+    <string name="tela_4_subtitulo">Simule sua média para o curso de Ciência da Computação na UFPE</string>
 </resources>

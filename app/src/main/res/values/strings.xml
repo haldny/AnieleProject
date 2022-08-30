@@ -2,4 +2,8 @@
     <string name="app_name">AnieleProject</string>
     <string name="redacao">Redação:</string>
     <string name="tela_4_subtitulo">Simule sua média para o curso de Ciência da Computação na UFPE</string>
+    <string name="main_activity_welcome_message">Hello Aniele, bem vindo ao Android!</string>
+    <string name="main_activity_go_to_screen2">Ir para tela 2</string>
+    <string name="main_activity_go_to_screen3">Ir para tela 3</string>
+    <string name="main_activity_go_to_screen4">Ir para tela 4</string>
 </resources>
